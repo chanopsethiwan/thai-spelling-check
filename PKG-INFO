@@ -1,0 +1,7 @@
+Name: thai-spelling-check
+Version: 1.0.0
+Summary: Thai spelling checker with pythainlp uploaded to pypi to allow pip install
+Home-page: https://github.com/chanopsethiwan/thai-spelling-check
+Author: Chanop Sethiwan
+Author-email: chanopsethiwan233@gmail.com
+License: MIT
